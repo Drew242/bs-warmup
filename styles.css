@@ -1,0 +1,38 @@
+html, body {
+  background-color: #ddd;
+}
+
+.container-fluid {
+  text-align: center;
+}
+
+.grey {
+  background-color: #4682B4;
+}
+
+.white {
+  background-color: #FFFFFF;
+}
+
+header .navbar-default {
+  padding: 1%;
+  background-color: #ddd;
+}
+
+.nav.nav-pills {
+  margin-bottom: 2%;
+  margin-top: 2%;
+}
+
+.flexbox {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: hidden;
+  min-height: 500px;
+}
+
+.btn-modal {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
